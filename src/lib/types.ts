@@ -79,6 +79,10 @@ export const LEGALITY_FORMATS: LegalityFormat[] = [
     label: 'EDH/Commander',
   },
   {
+    value: 'edh',
+    label: 'EDH/Commander',
+  }, 
+  {
     value: 'pauper_commander',
     label: 'Pauper EDH/Commander (including uncommon commanders)',
   },
